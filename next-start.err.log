@@ -1,0 +1,2 @@
+npm warn exec The following package was not found and will be installed: node@20.20.2
+ ⚠ The static directory has been deprecated in favor of the public directory. https://nextjs.org/docs/messages/static-dir-deprecated
